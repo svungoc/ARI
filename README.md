@@ -1,5 +1,7 @@
 # ARI
-Cours Arithmétique L2 ISTIC
+Cours Arithmétique L2 ISTIC 2018-2019
+
+**Bienvenue !**
 
 Ce dossier contient les _cahiers jupyter_ (jupyter notebooks) de chaque séance de cours écoulée.  
 
