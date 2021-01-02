@@ -1,5 +1,5 @@
 # ARI
-Cours Arithmétique L2 ISTIC 2018-2019
+Cours Arithmétique L2 ISTIC 2020-2021
 
 **Bienvenue !**
 
